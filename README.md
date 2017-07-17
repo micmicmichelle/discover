@@ -10,7 +10,7 @@
 ## day 2 = self-teaching
 1. start to use markdown
 2. downloaded w3app
-3. html basic, wrote very easy lines: `
+3. html basic, wrote very easy lines: ```
 
 <html>
 
@@ -23,4 +23,4 @@
 <hr />
 
 </body>
-</html>`
+</html>```
