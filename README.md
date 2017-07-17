@@ -8,12 +8,13 @@
 > 「感觉身体被掏空」到掌控世界 -- 上班族一周如何拿出15小时学习
 5. try to understand frontend by this picture: ![](http://ocuwjo7n4.bkt.clouddn.com/blog/2017-05-24-html_with_css_vs_html_css_bootstrap_js.jpg)
 
+
 ## day 2 = self-teaching
 1. start to use markdown
 2. downloaded w3app
 3. html basic, wrote very easy lines: 
-```<html>
-
+```
+<html>
 <body>
 
 <h1 align="center">HELLO JOJO</h1>
@@ -23,4 +24,5 @@
 <hr />
 
 </body>
-</html>```
+</html>
+```
